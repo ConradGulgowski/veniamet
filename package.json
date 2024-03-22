@@ -1,0 +1,40 @@
+{
+  "name": "veniamet",
+  "version": "1.0.0",
+  "description": "vue-cli plugin to add web3modal",
+  "main": "index.js",
+  "author": "AbdullahKeeling",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dolore",
+    "web3",
+    "vuex",
+    "sit",
+    "molestiae",
+    "officiis",
+    "ex",
+    "ea",
+    "ut",
+    "fugiat",
+    "et",
+    "web3modal",
+    "metamask",
+    "dolore",
+    "placeat",
+    "rem",
+    "ipsum",
+    "et",
+    "voluptate",
+    "frame"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ConradGulgowski/veniamet.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConradGulgowski/veniamet.git/issues"
+  }
+}
